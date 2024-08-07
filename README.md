@@ -1,4 +1,4 @@
-# STD_WD_2
+# SCT_WD_2
 📖 **Task 2 - Stopwatch and Timer**
 
 Stopwatch project, designed as a part of internship Web Development and Designing ,is a dynamic website which can be used to perform operations like:
