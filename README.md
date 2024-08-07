@@ -37,4 +37,4 @@ Would be glad to hear about new features to add in the website
 
 You may use this project freely at your own risk. See LICENSE.
 
-Copyright (c) 2024 Shravani MAske
+Copyright (c) 2024 Shravani Maske
